@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">Act Alamacenamiento</string>
     <string name="action_settings">Settings</string>
+    <string name="abrir">Abrir</string>
+    <string name="guardar">Guardar</string>
+    <string name="eliminar">Eliminar</string>
 </resources>

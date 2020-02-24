@@ -4,4 +4,8 @@
     <string name="abrir">Abrir</string>
     <string name="guardar">Guardar</string>
     <string name="eliminar">Eliminar</string>
+    <string name="nombre_del_archivo">Nombre del archivo...</string>
+    <string name="escriba_aqu_su_texto">Escriba aquí su texto...</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="abrir">Abrir</string>
 </resources>
